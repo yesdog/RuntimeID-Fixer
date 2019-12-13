@@ -1,0 +1,5 @@
+name: RuntimeID-Fixer
+author: WaterdogTeam
+api: 3.0.0
+main: waterdog\runtimeidfixer\RuntimeFixer
+version: 1.2
